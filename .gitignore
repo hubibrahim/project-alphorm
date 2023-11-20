@@ -27,7 +27,7 @@ build/Release
 node_modules
 
 #just in case
-#Toto.txt
+#
 
 jspm_packages
 
